@@ -28,3 +28,7 @@ This is currently running locally using Claude Desktop
 ```
 3) Restart Claude Desktop
 4) Ensure the MCP connection is live with a query like `What tools can you access from network-ops-mcp`
+
+### Examples
+![Port Scan Example](examples/port_scan.png)
+![Network Settings Example](examples/network_settings.png)
